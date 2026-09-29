@@ -188,8 +188,8 @@ My work sits at the intersection of **Applied AI/ML**, **Cybersecurity**, and **
 
 | Project | Description | Core Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **🛡️ CyberNeura** | **AI-Powered Phishing & Malicious URL Detection Platform**<br/>• Real-time URL threat intelligence and deceptive domain heuristic analysis.<br/>• NLP-driven email body content inspection for targeted phishing detection.<br/>• Fast REST API architecture for instantaneous threat verdicts. | `FastAPI` `React` `Supabase` `NLP` `scikit-learn` `Python` | <!-- ADD PROJECT LINK: CyberNeura --> [Repository](#) |
-| **🏛️ MEDAL** | **Smart Civic Issue Reporting Platform**<br/>• Enables citizens to report public issues with geo-tagged images and real-time location.<br/>• AI-powered issue classification and automated triaging using YOLO.<br/>• Equips city officials with analytics dashboards to track, inspect, and resolve complaints efficiently. | `Flutter` `FastAPI` `PostgreSQL` `Supabase` `YOLO` `MinIO` `JWT` `Docker` | <!-- ADD PROJECT LINK: MEDAL --> [Repository](#) |
+| **🛡️ CyberNeura** | **AI-Powered Phishing & Malicious URL Detection Platform**<br/>• Real-time URL threat intelligence and deceptive domain heuristic analysis.<br/>• NLP-driven email body content inspection for targeted phishing detection.<br/>• Fast REST API architecture for instantaneous threat verdicts. | `FastAPI` `React` `Supabase` `NLP` `scikit-learn` `Python` | [Repository](https://github.com/mithi2704/CyberNeura) |
+| **🏛️ MEDAL** | **Smart Civic Issue Reporting Platform**<br/>• Enables citizens to report public issues with geo-tagged images and real-time location.<br/>• AI-powered issue classification and automated triaging using YOLO.<br/>• Equips city officials with analytics dashboards to track, inspect, and resolve complaints efficiently. | `Flutter` `FastAPI` `PostgreSQL` `Supabase` `YOLO` `MinIO` `JWT` `Docker` | [Repository](https://github.com/mithi2704/MEDAL) |
 | **🚨 SafeSmart / SafeZone AI** | **Edge-AI Multi-Hazard Industrial & Environmental Safety System**<br/>• Sensor-fusion telemetry combining toxic gas (MQ2), thermal (DHT22), and motion (PIR).<br/>• Computer vision on ESP32-CAM for visual hazard and intrusion identification.<br/>• Edge computing for sub-second alert triggers and offline operation. | `ESP32-CAM` `DHT22` `MQ2` `PIR` `Edge AI` `OpenCV` `IoT` | <!-- ADD PROJECT LINK: SafeSmart --> [Repository](#) |
 | **🦾 RehaSense** | **AI-Assisted Telerehabilitation System for Stroke Recovery**<br/>• Real-time computer vision pose estimation for physical therapy exercise tracking.<br/>• Angle precision feedback and automated patient progress telemetry.<br/>• Accessible web dashboard bridging clinicians and recovering patients. | `Python` `OpenCV` `MediaPipe` `React` `FastAPI` `AI/ML` | <!-- ADD PROJECT LINK: RehaSense --> [Repository](#) |
 
@@ -209,10 +209,11 @@ My work sits at the intersection of **Applied AI/ML**, **Cybersecurity**, and **
 
 ## 🏆 Achievements & Recognitions
 
-- 🥇 **Winner (1st Prize)** — *FAISCA 2026 Paper & Project Presentation (Prince Bhavani College)*
+
 - 🌟 **Finalist** — *IET Smart City Challenge 2025*
 - 🥇 **Winner** — *B2G Mini Hackathon*
 - 🥇 **Winner** — *MIT TECHSCRIBE Paper Presentation*
+- 🥇 **Winner** — *FAISCA 2026 Paper & Project Presentation*
 - 🏅 **Top 10 Finalist** — *St. Joseph's National Level Hackathon*
 - 🏅 **Top 15 Finalist** — *VIT Hackathon*
 
