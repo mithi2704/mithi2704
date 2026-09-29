@@ -19,28 +19,21 @@
 
 <!-- SOCIAL & CONTACT BADGES -->
 <p align="center">
-  <a href="https://github.com/mithi2704">
+  <a href="https://github.com/mithi2704" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-mithi2704-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- ADD LINK: LinkedIn -->
-  <a href="# <!-- ADD LINK: LinkedIn -->">
+  <a href="https://www.linkedin.com/in/mithilesh-ravi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mithileshravi27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mithileshravi27@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/__mithilesh2704__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-__mithilesh2704__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <!-- ADD LINK: Portfolio -->
   <a href="# <!-- ADD LINK: Portfolio -->">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7928CA?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <!-- ADD LINK: Email -->
-  <a href="# <!-- ADD LINK: Email (mailto:youremail@domain.com) -->">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- ADD LINK: X/Twitter -->
-  <a href="# <!-- ADD LINK: X/Twitter -->">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-  <!-- ADD LINK: Instagram -->
-  <a href="# <!-- ADD LINK: Instagram -->">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <!-- ADD LINK: Resume -->
   <a href="# <!-- ADD LINK: Resume -->">
@@ -83,24 +76,7 @@ My work sits at the intersection of **Applied AI/ML**, **Cybersecurity**, and **
 - 🛡️ **AI-Powered Threat Intelligence**: Advancing automated phishing and malicious URL classification pipelines.
 - 📱 **Modern Cross-Platform Apps**: Building Flutter mobile apps paired with high-performance Spring Boot and FastAPI backends.
 - 🧠 **Edge-AI Multi-Hazard Systems**: Combining IoT sensor arrays (ESP32-CAM, gas, thermal) with computer vision for real-time risk alerts.
-- 🚀 **Hackathon Prototypes**: Engineering fast, scalable MVPs addressing civic safety, healthcare rehabilitation, and ocean preservation.
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <p><i>A curated selection of technical systems, AI applications, and engineering projects I've built.</i></p>
-</div>
-
-| Project | Description | Core Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **🛡️ CyberNeura** | **AI-Powered Phishing & Malicious URL Detection Platform**<br/>• Real-time URL threat intelligence and deceptive domain heuristic analysis.<br/>• NLP-driven email body content inspection for targeted phishing detection.<br/>• Fast REST API architecture for instantaneous threat verdicts. | `FastAPI` `React` `Supabase` `NLP` `scikit-learn` `Python` | <!-- ADD PROJECT LINK: CyberNeura --> [Repository](#) |
-| **🚗 Smart Vehicle Maintenance System** | **AI-Assisted Predictive Diagnostics & Fleet Platform**<br/>• Predictive engine health monitoring and scheduled maintenance forecasting.<br/>• Mobile interface for drivers and centralized fleet administrator portal.<br/>• Scalable containerized microservice design. | `Flutter` `Spring Boot` `Java` `MongoDB` `FastAPI` `Docker` | <!-- ADD PROJECT LINK: Smart Vehicle Maintenance --> [Repository](#) |
-| **🚨 SafeSmart / SafeZone AI** | **Edge-AI Multi-Hazard Industrial & Environmental Safety System**<br/>• Sensor-fusion telemetry combining toxic gas (MQ2), thermal (DHT22), and motion (PIR).<br/>• Computer vision on ESP32-CAM for visual hazard and intrusion identification.<br/>• Edge computing for sub-second alert triggers and offline operation. | `ESP32-CAM` `DHT22` `MQ2` `PIR` `Edge AI` `OpenCV` `IoT` | <!-- ADD PROJECT LINK: SafeSmart --> [Repository](#) |
-| **🦾 RehaSense** | **AI-Assisted Telerehabilitation System for Stroke Recovery**<br/>• Real-time computer vision pose estimation for physical therapy exercise tracking.<br/>• Angle precision feedback and automated patient progress telemetry.<br/>• Accessible web dashboard bridging clinicians and recovering patients. | `Python` `OpenCV` `MediaPipe` `React` `FastAPI` `AI/ML` | <!-- ADD PROJECT LINK: RehaSense --> [Repository](#) |
-| **🌊 OceanSense / OceanOpt** | **Oceanic Intelligence & SDG 14 Marine Monitoring Platform**<br/>• Environmental parameter tracking to monitor coastal pollution and marine safety.<br/>• Machine learning models for aquatic hazard anomaly forecasting.<br/>• Aligned with UN Sustainable Development Goal 14 (Life Below Water). | `Python` `FastAPI` `React` `Machine Learning` `IoT Telemetry` | <!-- ADD PROJECT LINK: OceanSense --> [Repository](#) |
-| **📊 GST / MCA Compliance Suite** | **Business Operations & Employee Management Platform**<br/>• Role-based authentication and operational dashboards for Admins and Team Leads.<br/>• Task distribution, file verification via Cloudinary, and compliance audit logs.<br/>• Secure relational schema with Prisma ORM and JWT security. | `React` `Node.js` `PostgreSQL` `Prisma` `JWT` `Cloudinary` | <!-- ADD PROJECT LINK: GST/MCA Platform --> [Repository](#) |
+- 🚀 **Hackathon Prototypes**: Engineering fast, scalable MVPs addressing civic safety, healthcare rehabilitation, and diagnostic intelligence.
 
 ---
 
@@ -179,26 +155,24 @@ My work sits at the intersection of **Applied AI/ML**, **Cybersecurity**, and **
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+  <p><i>A curated selection of technical systems, AI applications, and engineering projects I've built.</i></p>
+</div>
+
+| Project | Description | Core Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **🛡️ CyberNeura** | **AI-Powered Phishing & Malicious URL Detection Platform**<br/>• Real-time URL threat intelligence and deceptive domain heuristic analysis.<br/>• NLP-driven email body content inspection for targeted phishing detection.<br/>• Fast REST API architecture for instantaneous threat verdicts. | `FastAPI` `React` `Supabase` `NLP` `scikit-learn` `Python` | <!-- ADD PROJECT LINK: CyberNeura --> [Repository](#) |
+| **🏥 MEDAL** | **AI-Assisted Medical Diagnostics & Healthcare Intelligence Platform**<br/>• Intelligent clinical data analysis, predictive disease risk evaluation, and medical report insights.<br/>• Diagnostic support pipeline designed to aid clinical workflows and health analytics.<br/>• Clean web interface coupled with high-speed inference microservices. | `Python` `AI/ML` `FastAPI` `React` `Computer Vision` `HealthTech` | <!-- ADD PROJECT LINK: MEDAL --> [Repository](#) |
+| **🚨 SafeSmart / SafeZone AI** | **Edge-AI Multi-Hazard Industrial & Environmental Safety System**<br/>• Sensor-fusion telemetry combining toxic gas (MQ2), thermal (DHT22), and motion (PIR).<br/>• Computer vision on ESP32-CAM for visual hazard and intrusion identification.<br/>• Edge computing for sub-second alert triggers and offline operation. | `ESP32-CAM` `DHT22` `MQ2` `PIR` `Edge AI` `OpenCV` `IoT` | <!-- ADD PROJECT LINK: SafeSmart --> [Repository](#) |
+| **🦾 RehaSense** | **AI-Assisted Telerehabilitation System for Stroke Recovery**<br/>• Real-time computer vision pose estimation for physical therapy exercise tracking.<br/>• Angle precision feedback and automated patient progress telemetry.<br/>• Accessible web dashboard bridging clinicians and recovering patients. | `Python` `OpenCV` `MediaPipe` `React` `FastAPI` `AI/ML` | <!-- ADD PROJECT LINK: RehaSense --> [Repository](#) |
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/mithi2704">
-          <img src="https://github-readme-stats.vercel.app/api?username=mithi2704&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="Mithilesh's GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/mithi2704">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithi2704&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
 
   <a href="https://github.com/mithi2704">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithi2704&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
@@ -272,11 +246,10 @@ My work sits at the intersection of **Applied AI/ML**, **Cybersecurity**, and **
   <a href="# <!-- ADD LINK: CodeChef profile -->">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://github.com/mithi2704">
+  <a href="https://github.com/mithi2704" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-mithi2704-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- ADD LINK: LinkedIn profile -->
-  <a href="# <!-- ADD LINK: LinkedIn profile -->">
+  <a href="https://www.linkedin.com/in/mithilesh-ravi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -290,28 +263,21 @@ My work sits at the intersection of **Applied AI/ML**, **Cybersecurity**, and **
 <div align="center">
 
 <p>
-  <a href="https://github.com/mithi2704">
+  <a href="https://github.com/mithi2704" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-mithi2704-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- ADD LINK: LinkedIn -->
-  <a href="# <!-- ADD LINK: LinkedIn -->">
+  <a href="https://www.linkedin.com/in/mithilesh-ravi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mithilesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mithileshravi27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/__mithilesh2704__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-__mithilesh2704__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <!-- ADD LINK: Portfolio -->
   <a href="# <!-- ADD LINK: Portfolio -->">
     <img src="https://img.shields.io/badge/Portfolio-Explore-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <!-- ADD LINK: Email -->
-  <a href="# <!-- ADD LINK: Email (mailto:youremail@domain.com) -->">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- ADD LINK: Instagram -->
-  <a href="# <!-- ADD LINK: Instagram -->">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <!-- ADD LINK: X/Twitter -->
-  <a href="# <!-- ADD LINK: X/Twitter -->">
-    <img src="https://img.shields.io/badge/X-Connect-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
@@ -326,10 +292,5 @@ My work sits at the intersection of **Applied AI/ML**, **Cybersecurity**, and **
 <p>
   <i>Building. Learning. Experimenting. Repeating.</i>
 </p>
-
-<br/>
-
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=mithi2704&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
