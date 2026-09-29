@@ -31,8 +31,7 @@
   <a href="https://www.instagram.com/__mithilesh2704__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-__mithilesh2704__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- ADD LINK: Portfolio -->
-  <a href="# <!-- ADD LINK: Portfolio -->">
+  <a href="https://mithileshportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7928CA?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <!-- ADD LINK: Resume -->
@@ -149,6 +148,7 @@ My work sits at the intersection of **Applied AI/ML**, **Cybersecurity**, and **
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p>
 
@@ -189,7 +189,7 @@ My work sits at the intersection of **Applied AI/ML**, **Cybersecurity**, and **
 | Project | Description | Core Stack | Links |
 | :--- | :--- | :--- | :---: |
 | **🛡️ CyberNeura** | **AI-Powered Phishing & Malicious URL Detection Platform**<br/>• Real-time URL threat intelligence and deceptive domain heuristic analysis.<br/>• NLP-driven email body content inspection for targeted phishing detection.<br/>• Fast REST API architecture for instantaneous threat verdicts. | `FastAPI` `React` `Supabase` `NLP` `scikit-learn` `Python` | <!-- ADD PROJECT LINK: CyberNeura --> [Repository](#) |
-| **🏥 MEDAL** | **Smart Healthcare & Stroke Telerehabilitation Platform**<br/>• Designed to support stroke survivors through AI-assisted telerehabilitation and remote monitoring.<br/>• Personalized exercise regimens, guided computer vision feedback, and recovery progress tracking.<br/>• Multi-tiered cloud architecture with high-speed inference microservices. | `Flutter` `FastAPI` `Python` `AI/ML` `Computer Vision` `Docker` `PostgreSQL` `Firebase` | <!-- ADD PROJECT LINK: MEDAL --> [Repository](#) |
+| **🏛️ MEDAL** | **Smart Civic Issue Reporting Platform**<br/>• Enables citizens to report public issues with geo-tagged images and real-time location.<br/>• AI-powered issue classification and automated triaging using YOLO.<br/>• Equips city officials with analytics dashboards to track, inspect, and resolve complaints efficiently. | `Flutter` `FastAPI` `PostgreSQL` `Supabase` `YOLO` `MinIO` `JWT` `Docker` | <!-- ADD PROJECT LINK: MEDAL --> [Repository](#) |
 | **🚨 SafeSmart / SafeZone AI** | **Edge-AI Multi-Hazard Industrial & Environmental Safety System**<br/>• Sensor-fusion telemetry combining toxic gas (MQ2), thermal (DHT22), and motion (PIR).<br/>• Computer vision on ESP32-CAM for visual hazard and intrusion identification.<br/>• Edge computing for sub-second alert triggers and offline operation. | `ESP32-CAM` `DHT22` `MQ2` `PIR` `Edge AI` `OpenCV` `IoT` | <!-- ADD PROJECT LINK: SafeSmart --> [Repository](#) |
 | **🦾 RehaSense** | **AI-Assisted Telerehabilitation System for Stroke Recovery**<br/>• Real-time computer vision pose estimation for physical therapy exercise tracking.<br/>• Angle precision feedback and automated patient progress telemetry.<br/>• Accessible web dashboard bridging clinicians and recovering patients. | `Python` `OpenCV` `MediaPipe` `React` `FastAPI` `AI/ML` | <!-- ADD PROJECT LINK: RehaSense --> [Repository](#) |
 
@@ -303,8 +303,7 @@ My work sits at the intersection of **Applied AI/ML**, **Cybersecurity**, and **
   <a href="https://www.instagram.com/__mithilesh2704__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-__mithilesh2704__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- ADD LINK: Portfolio -->
-  <a href="# <!-- ADD LINK: Portfolio -->">
+  <a href="https://mithileshportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Explore-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
