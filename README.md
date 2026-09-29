@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="./banner.png" alt="Mithilesh - Developer Banner" width="100%" />
+<img src="./header.png" alt="Mithilesh - Developer Banner" width="100%" />
 
 <br/>
 <br/>
